@@ -1,0 +1,6 @@
+
+<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+https://raunakgroup.com/project/
+
+https://codepen.io/dimsemenov/pen/vKrqs // magnificent popups
